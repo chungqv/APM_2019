@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using TeduShop.Web.Models;
 
 namespace APM.Web.Mappings
 {
@@ -26,7 +25,7 @@ namespace APM.Web.Mappings
                 cfg.CreateMap<Page, PageViewModel>();
                 cfg.CreateMap<ContactDetail, ContactDetailViewModel>();
 
-                cfg.CreateMap<AppUser, UserViewModel>();
+               // cfg.CreateMap<AppUser, AppUserViewModel>();
                 //cfg.CreateMap<ApplicationGroup, ApplicationGroupViewModel>();
                 //cfg.CreateMap<Role, RoleViewModel>();
             });
