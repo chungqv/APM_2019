@@ -1,0 +1,15 @@
+E:\QuachTao\AFM\APM.Entity\bin\Debug\APM.Entity.dll.config
+E:\QuachTao\AFM\APM.Entity\bin\Debug\APM.Entity.dll
+E:\QuachTao\AFM\APM.Entity\bin\Debug\APM.Entity.pdb
+E:\QuachTao\AFM\APM.Entity\bin\Debug\EntityFramework.dll
+E:\QuachTao\AFM\APM.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\QuachTao\AFM\APM.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\QuachTao\AFM\APM.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\QuachTao\AFM\APM.Entity\bin\Debug\EntityFramework.xml
+E:\QuachTao\AFM\APM.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\QuachTao\AFM\APM.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\QuachTao\AFM\APM.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\QuachTao\AFM\APM.Entity\obj\Debug\APM.Entity.csproj.CoreCompileInputs.cache
+E:\QuachTao\AFM\APM.Entity\obj\Debug\APM.Entity.csproj.CopyComplete
+E:\QuachTao\AFM\APM.Entity\obj\Debug\APM.Entity.dll
+E:\QuachTao\AFM\APM.Entity\obj\Debug\APM.Entity.pdb

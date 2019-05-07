@@ -1,0 +1,14 @@
+E:\QuachTao\AFM\APM.Common\bin\Debug\APM.Common.dll.config
+E:\QuachTao\AFM\APM.Common\bin\Debug\APM.Common.dll
+E:\QuachTao\AFM\APM.Common\bin\Debug\APM.Common.pdb
+E:\QuachTao\AFM\APM.Common\bin\Debug\EPPlus.dll
+E:\QuachTao\AFM\APM.Common\bin\Debug\HtmlRenderer.dll
+E:\QuachTao\AFM\APM.Common\bin\Debug\HtmlRenderer.PdfSharp.dll
+E:\QuachTao\AFM\APM.Common\bin\Debug\EPPlus.xml
+E:\QuachTao\AFM\APM.Common\bin\Debug\HtmlRenderer.pdb
+E:\QuachTao\AFM\APM.Common\bin\Debug\HtmlRenderer.PdfSharp.pdb
+E:\QuachTao\AFM\APM.Common\obj\Debug\APM.Common.csprojAssemblyReference.cache
+E:\QuachTao\AFM\APM.Common\obj\Debug\APM.Common.csproj.CoreCompileInputs.cache
+E:\QuachTao\AFM\APM.Common\obj\Debug\APM.Common.csproj.CopyComplete
+E:\QuachTao\AFM\APM.Common\obj\Debug\APM.Common.dll
+E:\QuachTao\AFM\APM.Common\obj\Debug\APM.Common.pdb
